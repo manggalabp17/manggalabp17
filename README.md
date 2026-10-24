@@ -1,18 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/344901315?v=4" width="120" style="border-radius: 50%;" alt="Manggala"/>
   <h1>Manggala</h1>
-  <p>Developer • Builder • Lifelong Learner</p>
-</div>
-
-<div align="center">
-
-<a href="https://github.com/manggalabp17">
-  <img src="https://img.shields.io/badge/GitHub-manggalabp17-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/manggalabp17">
-  <img src="https://img.shields.io/badge/Twitter-@manggalabp17-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
+  <p>Student</p>
 </div>
 
 <div align="center">
@@ -24,7 +13,7 @@
 </div>
 
 <div align="center">
-  <em>Now playing on Spotify — spinning CD effect</em>
+  <em>Now playing on Spotify</em>
 </div>
 
 ---
