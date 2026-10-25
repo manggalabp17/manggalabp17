@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cf/06/f9/cf06f9a213e81c842b985cdf18b591cd.gif" width="120" style="border-radius: 50%;" alt="Manggala"/>
+  <img src="https://i.pinimg.com/originals/cf/06/f9/cf06f9a213e81c842b985cdf18b591cd.gif" width="495" style="border-radius: 50%;" alt="Manggala"/>
   <h1>Manggala</h1>
   <p>Student</p>
 </div>
